@@ -353,7 +353,7 @@ function updateWeatherImage(condition) {
         bgImage = "https://static.vecteezy.com/system/resources/thumbnails/033/645/252/small_2x/drizzle-rainy-day-in-autumn-background-and-wallpaper-generative-ai-photo.jpg";
     }
     else if (condition.includes("cloud")) {
-        bgImage = "https://getwallpapers.com/wallpaper/full/0/8/a/265630.jpg";
+        bgImage = "https://wallpaperaccess.com/full/2199634.jpg";
     }
     else if (condition.includes("clear")) {
         bgImage = "https://wallpapercave.com/wp/wp6680526.jpg";

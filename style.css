@@ -11,7 +11,7 @@ display:flex;
 justify-content:center;
 align-items:center;
 padding:20px;
-background-image: url("https://wallpapercave.com/wp/a1tlfX1.jpg");
+background-image: url("https://static.vecteezy.com/system/resources/thumbnails/055/201/807/small_2x/lightning-bolt-strikes-dramatically-over-grass-field-against-stormy-sky-showcasing-nature-s-raw-power-with-electric-blue-flash-through-dark-storm-clouds-at-dusk-nature-photo.jpg");
 
  background-size: cover;
     background-position: center;
@@ -49,7 +49,7 @@ cursor:pointer;
     position: relative;
     padding: 25px;
     border-radius: 20px;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     text-align: center;
     overflow: hidden;
     box-shadow: 2px 5px 10px black;
@@ -84,10 +84,10 @@ border-radius:120pxpx;
     border-radius: 10px;
     font-size: 16px;
     outline: none;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
 }
 #cityInput:focus{
-    border-color: #3f51b5;
+    border-color: #b8c2ff;
     box-shadow: 0 0 8px rgba(63, 81, 181, 0.4);
 }
 
@@ -116,7 +116,7 @@ background:rgba(255,255,255,.15);
 backdrop-filter:blur(20px);
 padding:15px;
 border-radius:15px;
-color:white;
+color:rgb(103, 235, 255);
 text-align:center;
 }
 
@@ -125,7 +125,7 @@ background:#111;
 }
 
 .sunny{
-background:linear-gradient(#f6d365,#fda085);
+background:linear-gradient(#ffc400,#000000);
 }
 
 .rainy{
@@ -148,11 +148,11 @@ background:linear-gradient(#757f9a,#d7dde8);
     border:none;
     border-radius:10px;
     cursor:pointer;
-    background:white;
+    background:rgb(195, 220, 255);
     box-shadow:0 2px 5px rgba(0,0,0,0.2);
 }
 h2
 {
  margin-top:20px;
- color:aliceblue;
+ color:rgb(255, 255, 255);
 }
